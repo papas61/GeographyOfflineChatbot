@@ -438,6 +438,7 @@ tkinter
 ## 👨‍💻 Author
 
 Created with ❤️ using Python, Tkinter, and Sentence Transformers.
+<img width="502" height="661" alt="image" src="https://github.com/user-attachments/assets/67a9a8d8-8592-4bca-9c9a-958581b89d71" />
 
-<img width="505" height="667" alt="image" src="https://github.com/user-attachments/assets/c8356637-bc0c-4b4b-8f28-3569b48fda1c" />
+
 
