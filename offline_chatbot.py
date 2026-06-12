@@ -5,7 +5,7 @@ from tkinter import scrolledtext
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 qa_pairs = [
-    ("hello hi hey greetings γεια καλησπέρα", 
+    ("hello hi hey greetings γεια καλησπέρα",
      "Hello! Ask me anything about geography."),
     ("capital of greece",
      "The capital of Greece is Athens."),
@@ -91,12 +91,12 @@ def get_response(user_input):
 class ChatbotUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Microcontroller Chatbot")
+        self.root.title("Geography Chatbot")
         self.root.geometry("400x500")
         self.root.configure(bg="#2E2E2E")
 
         tk.Label(
-           root, text = "Microcontroller Chatbot", font = ("Helvetica", 16, "bold"),
+           root, text = "Geography Chatbot", font = ("Helvetica", 16, "bold"),
             fg = "#FFFFFF", bg="#2E2E2E"
         ).pack(pady=10)
 
@@ -160,4 +160,5 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
-    main()   
+    main()
+    
