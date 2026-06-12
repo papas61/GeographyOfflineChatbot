@@ -439,7 +439,8 @@ tkinter
 
 Created with ❤️ using Python, Tkinter, and Sentence Transformers.
 
-<img width="502" height="661" alt="image" src="https://github.com/user-attachments/assets/67a9a8d8-8592-4bca-9c9a-958581b89d71" />
+<img width="502" height="671" alt="image" src="https://github.com/user-attachments/assets/463e0c22-d0cd-414c-b261-88021aa8cf9d" />
+
 
 
 
