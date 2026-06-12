@@ -152,7 +152,7 @@ class ChatbotUI:
         self.chat_area.insert(tk.END,
                               "Welcome to GeographyChat!\n"
                               "Ask about geography!\n")
-        self.chat_area.config(state='disabled'
+        self.chat_area.config(state='disabled')
 
 def main():
     root = tk.Tk()
